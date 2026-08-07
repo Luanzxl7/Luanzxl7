@@ -156,3 +156,15 @@ Aplicação desktop para gestão de alunos, planos, mensalidades, pagamentos, da
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luanzxl7&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
+
+
+
+---
+
+## `> CONTRIBUTION_SNAKE.exe`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Luanzxl7/Luanzxl7/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
