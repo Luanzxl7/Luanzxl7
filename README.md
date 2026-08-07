@@ -38,18 +38,25 @@ class LuanGoncalvesSilva:
             "GitHub"
         ]
 
+        self.projects = {
+            "SupportCore": "Web Help Desk System",
+            "GymManager": "Desktop Gym Management System",
+            "Electronic Shop | 3D": "3D E-commerce Experience"
+        }
+
         self.current_goal = "Software Development Internship"
 
     def build(self):
-        return "Real projects. Clean logic. Continuous evolution."
-
+        return "Building real software. Testing ideas. Improving every version."
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software e backend.
 
-Construo projetos próprios para transformar conhecimento técnico em sistemas funcionais, trabalhando com **backend, autenticação, bancos de dados, regras de negócio, testes automatizados, interfaces e organização de código**.
+Desenvolvo projetos próprios para aplicar conhecimentos em **Python, Flask, SQL, bancos de dados, autenticação, regras de negócio, testes automatizados e Git/GitHub**.
 
-Atualmente meus principais projetos são o **SupportCore**, uma aplicação web de Help Desk, e o **GymManager**, um sistema desktop de gestão de academia.
+Entre meus principais projetos estão o **SupportCore**, sistema web de Help Desk, o **GymManager**, sistema desktop de gestão de academias, e o **Electronic Shop | 3D**, experiência de e-commerce 3D com Three.js.
+
+Atualmente busco minha primeira oportunidade de **estágio em Desenvolvimento de Software / TI**, onde eu possa contribuir com projetos reais e continuar evoluindo tecnicamente.
 
 ---
 
