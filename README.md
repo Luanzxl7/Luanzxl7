@@ -135,3 +135,24 @@ Aplicação desktop para gestão de alunos, planos, mensalidades, pagamentos, da
 
 [MISSION] Transformar conhecimento em software funcional.
 ```
+
+
+---
+
+---
+
+## `> GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Luanzxl7&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luanzxl7&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
