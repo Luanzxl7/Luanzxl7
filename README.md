@@ -114,6 +114,24 @@ Aplicação desktop para gestão de alunos, planos, mensalidades, pagamentos, da
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎮 Electronic Shop | 3D
+
+**Loja Virtual 3D em Primeira Pessoa**
+
+Experiência de e-commerce 3D com navegação em primeira pessoa, produtos modelados em 3D, carrinho de compras e fluxo de pagamento via PIX.
+
+**Stack:**  
+`Three.js` `JavaScript` `HTML` `CSS`
+
+<a href="https://github.com/Luanzxl7/Projeto-Loja-Gamer">
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-00B8D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 
