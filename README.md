@@ -115,3 +115,23 @@ Aplicação desktop para gestão de alunos, planos, mensalidades, pagamentos, da
 </td>
 </tr>
 </table>
+
+
+---
+
+## `> CURRENT_OBJECTIVES.log`
+
+```text
+[STATUS]  SYSTEM ONLINE
+[FOCUS]   Software Development
+[STUDY]   Análise e Desenvolvimento de Sistemas
+[BUILD]   Projetos reais para evolução técnica
+[TARGET]  Primeira oportunidade de estágio em Tecnologia
+
+> Aprimorando Python e desenvolvimento backend
+> Evoluindo arquitetura, bancos de dados e testes automatizados
+> Desenvolvendo aplicações completas para portfólio
+> Expandindo conhecimentos em desenvolvimento web
+
+[MISSION] Transformar conhecimento em software funcional.
+```
