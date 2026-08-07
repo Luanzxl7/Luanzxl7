@@ -168,3 +168,36 @@ Aplicação desktop para gestão de alunos, planos, mensalidades, pagamentos, da
 <img src="https://raw.githubusercontent.com/Luanzxl7/Luanzxl7/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
+
+
+
+---
+
+## `> CONNECT_WITH_ME.sys`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luan-goncalves-silva/">
+  <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+
+<a href="https://github.com/Luanzxl7">
+  <img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   SYSTEM STATUS: ONLINE                     │
+│   DEVELOPER: LUAN GONÇALVES SILVA           │
+│   FOCUS: SOFTWARE DEVELOPMENT               │
+│                                             │
+│   > Building. Learning. Evolving. _         │
+│                                             │
+└─────────────────────────────────────────────┘
