@@ -16,3 +16,56 @@
 <img src="https://komarev.com/ghpvc/?username=Luanzxl7&label=PROFILE%20VIEWS&color=00b8d9&style=for-the-badge" />
 
 </div>
+
+---
+
+## `> ABOUT_ME.exe`
+
+```python
+class LuanGoncalvesSilva:
+    def __init__(self):
+        self.role = "ADS Student"
+        self.focus = "Software Development"
+        self.location = "Uberlândia, MG - Brazil"
+
+        self.main_stack = [
+            "Python",
+            "Flask",
+            "SQL",
+            "SQLAlchemy",
+            "SQLite",
+            "Git",
+            "GitHub"
+        ]
+
+        self.current_goal = "Software Development Internship"
+
+    def build(self):
+        return "Real projects. Clean logic. Continuous evolution."
+
+```
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software.
+
+Construo projetos próprios para transformar conhecimento técnico em sistemas funcionais, trabalhando com **backend, autenticação, bancos de dados, regras de negócio, testes automatizados, interfaces e organização de código**.
+
+Atualmente meus principais projetos são o **SupportCore**, uma aplicação web de Help Desk, e o **GymManager**, um sistema desktop de gestão de academia.
+
+---
+
+## `> TECH_STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,sqlite,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-111827?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+
+</div>
