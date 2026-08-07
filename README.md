@@ -66,14 +66,33 @@ Atualmente busco minha primeira oportunidade de **estágio em Desenvolvimento de
 
 <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,sqlite,git,github,vscode&theme=dark" />
 
+<br/>
+
+<b>LANGUAGES & WEB</b>
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=00F7FF"/>
+
+<br/>
+
+<b>BACKEND & DATABASE</b>
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-111827?style=for-the-badge&logo=python&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=00F7FF"/>
+
+<br/>
+
+<b>TOOLS</b>
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
 
 </div>
 
