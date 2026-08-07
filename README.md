@@ -69,3 +69,49 @@ Atualmente meus principais projetos são o **SupportCore**, uma aplicação web 
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 
 </div>
+
+---
+
+## `> ACTIVE_PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ SupportCore
+
+**Sistema Web de Help Desk**
+
+Aplicação web para gerenciamento de chamados de suporte com autenticação, perfis de acesso, SLA, atribuição de responsáveis, comentários, auditoria, notificações, relatórios e modo demonstração.
+
+**Stack:**  
+`Python` `Flask` `SQLAlchemy` `SQLite` `HTML` `CSS` `JavaScript`
+
+**117 testes automatizados**
+
+<a href="https://github.com/Luanzxl7/SupportCore">
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-00B8D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧬 GymManager
+
+**Sistema Desktop de Gestão de Academia**
+
+Aplicação desktop para gestão de alunos, planos, mensalidades, pagamentos, dashboard financeiro, relatórios CSV/XLSX/PDF, backup/restauração e modo demonstração.
+
+**Stack:**  
+`Python` `CustomTkinter` `SQLite` `bcrypt` `Pillow`
+
+**83 / 83 testes aprovados**
+
+<a href="https://github.com/Luanzxl7/GymManager">
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-00B8D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
